@@ -19,23 +19,22 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>	
   <summary><b>Programming Languages</b></summary>
- <img src="Images/Python.png" alt="python" width="30" height="30"/>
- <img src="Images/C++.png" alt="python" width="40" height="40"/>
- <img src="Images/C.png" alt="C" width="40" height="40"/>
- <img src="Images/Matlab.png" alt="matlab" width="30" height="30"/>
+ <img src="Images/Python.png" alt="python" width="30" height="30"/>&nbsp 
+ <img src="Images/C++.png" alt="python" width="40" height="40"/>&nbsp
+ <img src="Images/C.png" alt="C" width="40" height="40"/>&nbsp
+ <img src="Images/Matlab.png" alt="matlab" width="30" height="30"/>&nbsp
  <img src="Images/R.png" alt="R" width="35" height="30"/>
 </details>
 
 <details>	
  <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
- <img src="Images/TF.png" alt="TF" width="35" height="40"/>
- <img src="Images/Keras.png" alt="Keras" width="40" height="40"/>
-  <img src="Images/PT.png" alt="PT" width="80" height="40"/>
- <img src="Images/SK.png" alt="SC" width="60" height="40"/>
+ <img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp
+ <img src="Images/Keras.png" alt="Keras" width="30" height="30"/> &nbsp
+ <img src="Images/SK.png" alt="SC" width="50" height="30"/>
  
 </details>
 
-<details>	
+<!-- <details>	
   <summary><b>Frontend Development</b></summary>
   <a href="https://angular.io" target="_blank"><img src="images/angular.png" alt="angularjs" width="30" height="30"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  
 </details>
@@ -69,7 +68,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
   <summary><b>Others</b></summary>
   <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
 </details>
-
+ -->
 
 
 
