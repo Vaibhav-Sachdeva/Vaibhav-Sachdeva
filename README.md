@@ -19,11 +19,11 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>	
   <summary><b>Programming Languages</b></summary>
- <img src="Images/python.png" alt="python" width="30" height="30"/>
- <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="C++" width="35" height="40"/>
- <img src="Images/C.jpg" alt="C" width="35" height="40"/>
- <img src="Images/matlab.jpg" alt="matlab" width="35" height="40"/>
- <img src="Images/R.jpg" alt="R" width="35" height="40"/>
+ <img src="Images/Python.png" alt="python" width="40" height="40"/>
+ <img src="Images/C++.png" alt="python" width="40" height="40"/>
+ <img src="Images/C.png" alt="C" width="35" height="40"/>
+ <img src="Images/Matlab.png" alt="matlab" width="35" height="40"/>
+ <img src="Images/R.png" alt="R" width="35" height="40"/>
 </details>
 
 <details>	
