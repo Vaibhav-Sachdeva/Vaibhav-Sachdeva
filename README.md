@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Vaibhav Sachdeva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm Vaibhav Sachdeva</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/Vaibhav021099)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:vaibhavsachdeva021099@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sachdeva-814332139/)
