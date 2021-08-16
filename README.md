@@ -20,10 +20,18 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <details>	
   <summary><b>Programming Languages</b></summary>
  <img src="Images/Python.png" alt="python" width="30" height="30"/>
- <img src="Images/C++.png" alt="python" width="35" height="40"/>
- <img src="Images/C.png" alt="C" width="35" height="30"/>
- <img src="Images/Matlab.png" alt="matlab" width="30" height="35"/>
- <img src="Images/R.png" alt="R" width="30" height="30"/>
+ <img src="Images/C++.png" alt="python" width="40" height="40"/>
+ <img src="Images/C.png" alt="C" width="40" height="40"/>
+ <img src="Images/Matlab.png" alt="matlab" width="30" height="30"/>
+ <img src="Images/R.png" alt="R" width="35" height="30"/>
+</details>
+
+<details>	
+ <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
+ <img src="Images/TF.png" alt="TF" width="30" height="30"/>
+ <img src="Images/Keras.png" alt="Keras" width="40" height="40"/>
+ <img src="Images/SC.png" alt="SC" width="40" height="40"/>
+ <img src="Images/PT.png" alt="PT" width="30" height="30"/>
 </details>
 
 <details>	
