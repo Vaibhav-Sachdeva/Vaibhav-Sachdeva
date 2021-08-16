@@ -10,7 +10,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 ### More about me:
 
-- 💻 Currently working with Dell Technologies as a Software Engineer. 
+- 💻 Currently working as a Software Engineer at Dell Technologies. 
 - 🚀 Deeply passionalte about Data Science, and Artificial Intelligence - Machine Leanring, and Deep Learning. 
 - 🌱 Currently learning Reinforcement Learning.
 - 📝 Checkout my [Resume]().
