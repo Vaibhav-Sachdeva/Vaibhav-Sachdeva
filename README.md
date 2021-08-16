@@ -20,10 +20,10 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <details>	
   <summary><b>Programming Languages</b></summary>
  <img src="images/python.png" alt="python" width="30" height="30"/>
- <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="python" width="35" height="40"/>
- <img src="images/C.png" alt="python" width="35" height="40"/>
- <img src="images/matlab.png" alt="python" width="35" height="40"/>
- <img src="images/R.png" alt="python" width="35" height="40"/>
+ <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="C++" width="35" height="40"/>
+ <img src="images/C.png" alt="C" width="35" height="40"/>
+ <img src="images/matlab.png" alt="matlab" width="35" height="40"/>
+ <img src="images/R.png" alt="R" width="35" height="40"/>
 </details>
 
 <details>	
