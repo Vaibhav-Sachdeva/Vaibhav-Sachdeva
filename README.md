@@ -28,10 +28,11 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>	
  <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
- <img src="Images/TF.png" alt="TF" width="30" height="30"/>
+ <img src="Images/TF.png" alt="TF" width="35" height="40"/>
  <img src="Images/Keras.png" alt="Keras" width="40" height="40"/>
- <img src="Images/SC.png" alt="SC" width="40" height="40"/>
- <img src="Images/PT.png" alt="PT" width="30" height="30"/>
+  <img src="Images/PT.png" alt="PT" width="80" height="40"/>
+ <img src="Images/SK.png" alt="SC" width="60" height="40"/>
+ 
 </details>
 
 <details>	
