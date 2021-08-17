@@ -34,7 +34,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 </details>
 
 <details>	
- <summary><b>Backend Development</b></summary>
+ <summary><b>Backend Development (Languages and Tools)</b></summary>
  <img src="Images/MySQL.png" alt="TF" width="40" height="35"/> 
  <img src="Images/Prometheus.png" alt="Keras" width="35" height="35"/> 
  <img src="Images/Elasticsearch.png" alt="Keras" width="35" height="30"/> 
@@ -44,7 +44,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 </details>
 
 <details>	
- <summary><b>Frontend Development</b></summary>
+ <summary><b>Frontend Development (Languages and Tools)</b></summary>
  <img src="Images/html.png" alt="TF" width="40" height="40"/> 
  <img src="Images/css.png" alt="Keras" width="40" height="40"/>
  <img src="Images/Grafana.png" alt="TF" width="40" height="40"/> 
