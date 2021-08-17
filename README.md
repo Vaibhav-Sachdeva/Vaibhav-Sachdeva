@@ -31,8 +31,24 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
  <img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp
  <img src="Images/Keras.png" alt="Keras" width="30" height="30"/> &nbsp
  <img src="Images/SK.png" alt="SC" width="50" height="30"/>
- 
 </details>
+
+<details>	
+ <summary><b>Backend Development</b></summary>
+ <img src="Images/MySQL.png" alt="TF" width="30" height="30"/> &nbsp
+ <img src="Images/Mongo.png" alt="Keras" width="30" height="30"/> &nbsp
+ <img src="Images/Firebase.png" alt="SC" width="50" height="30"/>
+ <img src="Images/Node.png" alt="SC" width="50" height="30"/>
+</details>
+
+<details>	
+ <summary><b>Frontend Development</b></summary>
+ <img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp
+ <img src="Images/Keras.png" alt="Keras" width="30" height="30"/> &nbsp
+ <img src="Images/SK.png" alt="SC" width="50" height="30"/>
+</details>
+
+
 
 <!-- <details>	
   <summary><b>Frontend Development</b></summary>
