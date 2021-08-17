@@ -37,7 +37,8 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
  <summary><b>Backend Development</b></summary>
  <img src="Images/MySQL.png" alt="TF" width="40" height="35"/> 
  <img src="Images/Prometheus.png" alt="Keras" width="35" height="35"/> 
- <img src="Images/MongoDB.png" alt="Keras" width="35" height="45"/> 
+ <img src="Images/Elasticsearch.png" alt="Keras" width="35" height="30"/> 
+ <img src="Images/MongoDB.png" alt="Keras" width="35" height="50"/> 
  <img src="Images/Firebase.png" alt="SC" width="45" height="45"/>
  <img src="Images/nodejs.png" alt="SC" width="45" height="45"/>
 </details>
@@ -46,6 +47,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
  <summary><b>Frontend Development</b></summary>
  <img src="Images/html.png" alt="TF" width="40" height="40"/> 
  <img src="Images/css.png" alt="Keras" width="40" height="40"/>
+ <img src="Images/Grafana.png" alt="TF" width="40" height="40"/> 
 </details>
 
 
