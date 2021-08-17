@@ -35,10 +35,10 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>	
  <summary><b>Backend Development</b></summary>
- <img src="Images/MySQL.png" alt="TF" width="30" height="30"/> &nbsp
- <img src="Images/Mongo.png" alt="Keras" width="30" height="30"/> &nbsp
- <img src="Images/Firebase.png" alt="SC" width="50" height="30"/>
- <img src="Images/Node.png" alt="SC" width="50" height="30"/>
+ <img src="Images/MySQL.png" alt="TF" width="50" height="50"/> &nbsp
+ <img src="Images/Mongo.png" alt="Keras" width="70" height="50"/> &nbsp
+ <img src="Images/Firebase.png" alt="SC" width="50" height="50"/>
+ <img src="Images/nodejs.png" alt="SC" width="50" height="50"/>
 </details>
 
 <details>	
