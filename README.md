@@ -18,20 +18,18 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <details>
-  <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-plain.svg" width="30px"></span>&nbsp;
+<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30px"></span>&nbsp;
 <summary><b>Programming Languages</b></summary>
  <span><img src="Images/Python.png" alt="python" width="30px"/></span>&nbsp 
  <img src="Images/C++.png" alt="python" width="40" height="40"/>&nbsp
  <img src="Images/C.png" alt="C" width="40" height="40"/>&nbsp
  <span><img src="Images/Matlab.png" alt="matlab" width="30px"/></span>&nbsp
  <span><img src="Images/R.png" alt="R" width="30px"/></span>
-</details>
+</details> -->
 
 <details>	
  <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
