@@ -31,8 +31,8 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
 <span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="30px"></span>&nbsp;
-<span><img src="Images/SK.png" height="35"/></span>&nbsp;
- <span><img src="Images/Pytorch.png" height="35"/></span>&nbsp;
+<span><img src="Images/SK.png" height="35px" width="50px"/></span>&nbsp;
+<span><img src="Images/Pytorch.png" height="35"/></span>&nbsp;
 <span><img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" width="30px"></span>&nbsp;
 <span><img src="Images/Pandas.png" width="40px"></span>&nbsp;
 <!--  <span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" width="40px"></span>&nbsp;
