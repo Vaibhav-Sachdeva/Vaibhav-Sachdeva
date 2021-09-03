@@ -20,6 +20,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <details>
 <summary><b>Programming Languages</b></summary>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
+ <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40px"></span>&nbsp;
@@ -28,31 +29,35 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>	
 <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
-<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40px"></span>&nbsp; -->
-<!--  <img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp -->
+<span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="30px"></span>&nbsp;
+<span><img src="Images/SK.png" alt="SC" height="35"/></span>&nbsp;
+<span><img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" width="40px"></span>&nbsp;
+<span><img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="40px"></span>&nbsp;
+<!--  <span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" width="40px"></span>&nbsp;
+<img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40px"></span>&nbsp;
 <span><img src="Images/Keras.png" alt="Keras" width="30" height="30"/></span>&nbsp;
-<span><img src="Images/SK.png" alt="SC" width="50" height="30"/></span>&nbsp;
+<span><img src="Images/SK.png" alt="SC" width="50" height="30"/></span>&nbsp; -->
 </details>
 
 <details>	
- <summary><b>Backend Development (Languages and Tools)</b></summary>
- <img src="Images/MySQL.png" alt="TF" width="40" height="35"/> 
- <img src="Images/Prometheus.png" alt="Keras" width="35" height="35"/> 
- <img src="Images/Elasticsearch.png" alt="Keras" width="35" height="30"/> 
- <img src="Images/Firebase.png" alt="SC" width="45" height="50"/>
- <img src="Images/nodejs.png" alt="SC" width="45" height="45"/> 
- <img src="Images/MongoDB.png" alt="Keras" width="35" height="50"/> 
+<summary><b>Backend Development (Languages and Tools)</b></summary>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="35px"></span>&nbsp;
+<span><img src="Images/Prometheus.png" alt="Keras" width="35px" height="35px"/></span>&nbsp;
+<span><img src="Images/Elasticsearch.png" alt="Keras" width="40px" height="35px"/></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40px"></span>&nbsp;
 </details>
 
 <details>	
  <summary><b>Frontend Development (Languages and Tools)</b></summary>
- <img src="Images/html.png" alt="TF" width="40" height="40"/> 
- <img src="Images/css.png" alt="Keras" width="40" height="40"/>
- <img src="Images/Grafana.png" alt="TF" width="35" height="35"/> 
+ <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="35px"></span>&nbsp;
+<span><img src="Images/Grafana.png" alt="TF" width="40px" height="40px"/></span>&nbsp;
 </details>
 
 <h2>⚡&nbsp;Github Stats</h2>
