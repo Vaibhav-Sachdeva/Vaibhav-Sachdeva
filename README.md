@@ -18,11 +18,14 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <details>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/html5-plain.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-plain.svg" width="30px"></span>&nbsp;
-<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30px"></span>&nbsp;
+</details>
+ 
+ <!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30px"></span>&nbsp;
 <summary><b>Programming Languages</b></summary>
  <span><img src="Images/Python.png" alt="python" width="30px"/></span>&nbsp 
  <img src="Images/C++.png" alt="python" width="40" height="40"/>&nbsp
