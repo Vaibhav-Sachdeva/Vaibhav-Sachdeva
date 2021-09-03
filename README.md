@@ -31,15 +31,9 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
 <span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="30px"></span>&nbsp;
-<span><img src="Images/SK.png" height="35px" width="50px"/></span>&nbsp;
-<span><img src="Images/Pytorch.png" height="35"/></span>&nbsp;
+<span><img src="Images/SK.png" height="35px" width="55px"/></span>&nbsp;
 <span><img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" width="30px"></span>&nbsp;
-<span><img src="Images/Pandas.png" width="40px"></span>&nbsp;
-<!--  <span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" width="40px"></span>&nbsp;
-<img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40px"></span>&nbsp;
-<span><img src="Images/Keras.png" alt="Keras" width="30" height="30"/></span>&nbsp;
-<span><img src="Images/SK.png" alt="SC" width="50" height="30"/></span>&nbsp; -->
+<span><img src="Images/Pandas.PNG" height="40px" width="30px"></span>&nbsp;
 </details>
 
 <details>	
