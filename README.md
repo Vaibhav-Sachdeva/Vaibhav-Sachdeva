@@ -19,27 +19,23 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>
 <summary><b>Programming Languages</b></summary>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40px"></span>&nbsp;
 </details>
- 
- <!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="30px"></span>&nbsp;
-<summary><b>Programming Languages</b></summary>
- <span><img src="Images/Python.png" alt="python" width="30px"/></span>&nbsp 
- <img src="Images/C++.png" alt="python" width="40" height="40"/>&nbsp
- <img src="Images/C.png" alt="C" width="40" height="40"/>&nbsp
- <span><img src="Images/Matlab.png" alt="matlab" width="30px"/></span>&nbsp
- <span><img src="Images/R.png" alt="R" width="30px"/></span>
-</details> -->
 
 <details>	
- <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
- <img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp
- <img src="Images/Keras.png" alt="Keras" width="30" height="30"/> &nbsp
- <img src="Images/SK.png" alt="SC" width="50" height="30"/>
+<summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
+<!-- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="40px"></span>&nbsp; -->
+<!--  <img src="Images/TF.png" alt="TF" width="30" height="30"/> &nbsp -->
+<span><img src="Images/Keras.png" alt="Keras" width="30" height="30"/></span>&nbsp;
+<span><img src="Images/SK.png" alt="SC" width="50" height="30"/></span>&nbsp;
 </details>
 
 <details>	
