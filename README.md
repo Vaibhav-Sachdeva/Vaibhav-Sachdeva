@@ -19,8 +19,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 
 <details>	
   <summary><b>Programming Languages</b></summary>
- <img alt="React" src="https://img.shields.io/badge/-C++&style=flat-square&logo=cplusplus&logoColor=white" />
- <img src="Images/Python.png" alt="python" width="30" height="30"/>&nbsp 
+ <span><img src="Images/Python.png" alt="python" width="30px"/></span>&nbsp 
  <img src="Images/C++.png" alt="python" width="40" height="40"/>&nbsp
  <img src="Images/C.png" alt="C" width="40" height="40"/>&nbsp
  <img src="Images/Matlab.png" alt="matlab" width="30" height="30"/>&nbsp
