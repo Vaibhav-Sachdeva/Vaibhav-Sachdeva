@@ -32,7 +32,7 @@ I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electroni
 <span><img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="30px"></span>&nbsp;
 <span><img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="30px"></span>&nbsp;
 <span><img src="Images/SK.png" height="35px" width="55px"/></span>&nbsp;
-<span><img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" width="30px"></span>&nbsp;
+<span><img src="https://github.com/valohai/ml-logos/blob/master/numpy-logo.svg" width="30px"></span>&nbsp;&nbsp;
 <span><img src="Images/Pandas.PNG" height="40px" width="30px"></span>&nbsp;
 </details>
 
