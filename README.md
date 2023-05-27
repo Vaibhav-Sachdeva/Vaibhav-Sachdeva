@@ -5,7 +5,17 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a recent graduate from Shiv Nadar University 🏛, with a major in Electronics and Communication Engineering, and a minor in Big Data Analytics 🎓. I'm a self-motivated learner, who's always willing to learn new technologies 👀, and leverage them to solve real-life problems 💡.
+I am a tech enthusiast pursuing a Master's degree in Computer Science and Engineering at Santa Clara University, after earning a Bachelor's degree in Electronics and Communication Engineering with a minor in Big Data Analytics from Shiv Nadar University.
+
+Throughout my academic journey, my passion for technology has grown exponentially, driven by the belief that it holds the potential to positively impact society. As a dedicated learner, I am constantly driven to explore new technologies and expand my knowledge and skill set.
+
+My expertise in Software Development and Artificial Intelligence drives me to contribute to innovative solutions for real-life challenges. I am confident that technology has the power to transform industries and I am eager to be a part of this transformation by pursuing a career in the field.
+
+I possess a diverse range of skills and experiences, including proficiency in programming languages such as Python, C, C++, JavaScript, R, and MATLAB. In addition, I have hands-on experience working with database systems such as MySQL, MongoDB, and Oracle. My expertise extends to web development technologies such as React.js, Node.js, Webpack, HTML, and CSS, as well as collaboration tools like Git and Jira.
+
+I have acquired extensive expertise in machine learning and deep learning algorithms and frameworks, including TensorFlow, PyTorch, Scikit-learn, and Keras. Through these competencies, I have been able to construct predictive models and successfully address practical challenges with efficiency and effectiveness.
+
+I am highly motivated to constantly explore new opportunities where I can apply my knowledge and skills to tackle complex challenges and drive meaningful change. My academic journey, work experience, and diverse skill set have shaped me into a determined and passionate individual ready to make valuable contributions in the dynamic landscape of technology.
 
 ### More about me:
 
