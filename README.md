@@ -29,7 +29,7 @@
 <details>
 <summary><b>Programming Languages</b></summary>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"></span>&nbsp;
- <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="37px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40px"></span>&nbsp;
@@ -39,11 +39,10 @@
 <details>	
 <summary><b>Machine Learning/Deep Learning Frameworks</b></summary>
 <span><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="30px"></span>&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30px" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="30px"></span>&nbsp;
 <span><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="35px" width="55px"/></span>&nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="30px"></span>&nbsp;&nbsp;
-<span><img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="40px" width="30px"></span>&nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30px" width="30px"></span>&nbsp;
+
 </details>
 
 <details>	
@@ -54,7 +53,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40px"></span>
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" width="35px"></span>
 </details>
 
 <details>	
@@ -65,8 +63,3 @@
 <span><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="TF" width="40px" height="40px"/></span>&nbsp;
 </details>
 
-<h2>⚡&nbsp;Github Stats</h2>
-<p align = "center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-Sachdeva&show_icons=true&locale=en&hide_border=true" alt="Vaibhav-Sachdeva"/>
-<img height="170em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-Sachdeva&layout=compact&hide_border=true">
-</p>
