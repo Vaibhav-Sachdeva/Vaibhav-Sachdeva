@@ -18,7 +18,7 @@
 <p style = "text-align: justify;">I am highly motivated to constantly explore new opportunities where I can apply my knowledge and skills to tackle complex challenges and drive meaningful change. My academic journey, work experience, and diverse skill set have shaped me into a determined and passionate individual ready to make valuable contributions in the dynamic landscape of technology.</p>
 
 
-### 📝 &nbsp;Checkout my [Resume](https://drive.google.com/file/d/1tPayaIcYd3EgxvVKot3lIxN8N7R7l9x-/view?usp=sharing)
+### 📝 Checkout my [Resume].(https://drive.google.com/file/d/1tPayaIcYd3EgxvVKot3lIxN8N7R7l9x-/view?usp=sharing)
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
