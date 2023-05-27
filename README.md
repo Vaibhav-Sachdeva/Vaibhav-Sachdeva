@@ -7,7 +7,7 @@
 
 <p style = "text-align: justify;">I am a tech enthusiast pursuing a Master's degree in Computer Science and Engineering at Santa Clara University, after earning a Bachelor's degree in Electronics and Communication Engineering with a minor in Big Data Analytics from Shiv Nadar University.</p>
 
-Throughout my academic journey, my passion for technology has grown exponentially, driven by the belief that it holds the potential to positively impact society. As a dedicated learner, I am constantly driven to explore new technologies and expand my knowledge and skill set.
+<p style = "text-align: justify;">Throughout my academic journey, my passion for technology has grown exponentially, driven by the belief that it holds the potential to positively impact society. As a dedicated learner, I am constantly driven to explore new technologies and expand my knowledge and skill set.</p>
 
 My expertise in Software Development and Artificial Intelligence drives me to contribute to innovative solutions for real-life challenges. I am confident that technology has the power to transform industries and I am eager to be a part of this transformation by pursuing a career in the field.
 
